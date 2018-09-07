@@ -1,0 +1,4 @@
+to completely shutdown all instances of the 
+mongodb serverse use:
+mongo admin --eval "db.shutdownServer()";
+in the terminal
